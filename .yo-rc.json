@@ -1,0 +1,7 @@
+{
+  "generator-scala": {
+    "promptValues": {
+      "subGeneratorName": "maven"
+    }
+  }
+}
