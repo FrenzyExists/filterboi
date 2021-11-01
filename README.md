@@ -8,6 +8,5 @@ This is pretty much my first time messing with threads so, kinda exited I got th
 
 ## Contents
 
-At the moment the median filter is not fully implemented, only the algorithm itself. I still haven't done the image parser thingy with the Salt-Pepper filter using OpenCV. 
-
-Expect another update soon :D
+- Median Filter (concurrent)
+- Parallel Filter
